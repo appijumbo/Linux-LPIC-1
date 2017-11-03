@@ -1,4 +1,4 @@
-# A guide to LPCIC-1
+# A guide to LPIC-1
 
 The Linux Professional Institute has a number of Linux ceretificates for professionals.
 
